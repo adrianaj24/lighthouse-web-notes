@@ -4,6 +4,6 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Adriana](www.github.com/adrianaj24) for the [Lighthouse Labs](www.lighthouselabs.ca) Web Development Bootcamp.
+This repository contains all of the notes taken by [Adriana](https://github.com/adrianaj24) for the [Lighthouse Labs](https://lighthouselabs.ca) Web Development Bootcamp.
 
 
